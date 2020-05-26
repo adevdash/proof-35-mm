@@ -1,0 +1,24 @@
+{
+  "name": "proof-35-mm",
+  "version": "1.0.0",
+  "description": "Enter a movie to get a drink suggestion",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adevdash/proof-35-mm.git"
+  },
+  "keywords": [
+    "movie",
+    "music",
+    "drink"
+  ],
+  "author": "Aditya Dash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adevdash/proof-35-mm/issues"
+  },
+  "homepage": "https://github.com/adevdash/proof-35-mm#readme"
+}
